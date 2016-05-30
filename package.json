@@ -1,0 +1,27 @@
+{
+  "name": "pkg-info",
+  "version": "1.0.0",
+  "description": "get package informations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aberwag/pkg-info.git"
+  },
+  "keywords": [
+    "package",
+    "infos"
+  ],
+  "author": "aberwag",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aberwag/pkg-info/issues"
+  },
+  "homepage": "https://github.com/aberwag/pkg-info#readme",
+  "devDependencies": {
+    "assert": "^1.4.0"
+  }
+}
