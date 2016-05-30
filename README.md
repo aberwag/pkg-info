@@ -10,4 +10,4 @@ npm install --save pkg-info
 npm test
 ```
 
-## [License](./LICENCE)
+## [License](./LICENSE)
